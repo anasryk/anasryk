@@ -1,8 +1,7 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Muhammad Anas
 
 Aspiring Full-Stack Web Developer | 🎨 UI Designer | 💼 WordPress Specialist
 
----
 
 ### 🌐 Connect with me
 
@@ -65,22 +64,8 @@ My expertise spans full-stack development with a special focus on intuitive UI d
 ---
 
 ### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🔥 Featured Projects
-
-#### E-Commerce Platform
-A full-featured online store built with React, Node.js, and MongoDB with payment integration and admin dashboard.
-[![Project Badge](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/your-github/project)
-
-#### Portfolio Website
-Modern portfolio site built with React and TailwindCSS featuring smooth animations and responsive design.
-[![Project Badge](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/your-github/project)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anasryk&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasryk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -88,9 +73,12 @@ Modern portfolio site built with React and TailwindCSS featuring smooth animatio
 
 I'm always open to interesting conversations and opportunities - feel free to reach out!
 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://digitalpulse.wuaze.com)
 
 ---
 
-⭐️ From [your-github](https://github.com/your-github)
+⭐️ From github.com/anasryk

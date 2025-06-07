@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Anas
 
-Aspiring Full-Stack Web Developer | 🎨 UI Designer | 💼 WordPress Specialist
+Aspiring Full-Stack Web Developer | 💼 WordPress Specialist
 
 
 ### 🌐 Connect with me

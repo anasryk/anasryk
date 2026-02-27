@@ -14,9 +14,9 @@ Full-Stack Web Developer | WordPress Specialist | MERN Stack Developer
 
 I am a dedicated Full-Stack Web Developer focused on building scalable, high-performance web applications. I specialize in modern JavaScript technologies and WordPress development, with strong attention to UI/UX, responsiveness, and clean architecture.
 
-- Currently building an advanced e-commerce platform using React and Firebase  
-- Learning Next.js, GraphQL, and AWS fundamentals  
-- Exploring performance optimization and scalable backend architecture  
+- Building scalable React applications  
+- Learning Next.js and cloud fundamentals  
+- Focused on clean backend architecture and API optimization  
 
 ---
 
@@ -37,11 +37,11 @@ I am a dedicated Full-Stack Web Developer focused on building scalable, high-per
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### CMS & E-commerce
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -59,15 +59,15 @@ I am a dedicated Full-Stack Web Developer focused on building scalable, high-per
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasryk&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=anasryk&show_icons=true&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasryk&layout=compact&theme=default)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasryk&layout=compact&hide_border=true" />
 
 ---
 
 ## Professional Goal
 
-To build scalable, production-ready web applications that solve real-world problems and deliver measurable business value.
+To build scalable, production-ready web applications that deliver measurable business value.
 
 ---
 

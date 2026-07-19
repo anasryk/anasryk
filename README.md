@@ -1,6 +1,6 @@
 # Muhammad Anas
 
-Full-Stack Web Developer | WordPress Specialist | MERN Stack Developer  
+Full-Stack Web Developer | WordPress Specialist | MERN Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anas-devfolio.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itxanas97@gmail.com)
@@ -10,13 +10,17 @@ Full-Stack Web Developer | WordPress Specialist | MERN Stack Developer
 
 ---
 
-## About Me
+<div align="center">
 
-I am a dedicated Full-Stack Web Developer focused on building scalable, high-performance web applications. I specialize in modern JavaScript technologies and WordPress development, with strong attention to UI/UX, responsiveness, and clean architecture.
+<h3><code>anas@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
 
-- Building scalable React applications  
-- Learning Next.js and cloud fundamentals  
-- Focused on clean backend architecture and API optimization  
+<br><br>
+
+<h3><code>anas@github ~ $ neofetch</code></h3>
+<img src="./info-card.svg" width="490" />
+
+</div>
 
 ---
 
@@ -54,14 +58,6 @@ I am a dedicated Full-Stack Web Developer focused on building scalable, high-per
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=anasryk&show_icons=true&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasryk&layout=compact&hide_border=true" />
 
 ---
 

@@ -4,6 +4,7 @@ https://github.com/users/<username>/contributions and writes
 data/contributions.json with raw days + derived stats.
 """
 import json
+import os
 import sys
 from collections import defaultdict
 from datetime import datetime, timezone
@@ -104,6 +105,7 @@ def main():
         "days": days,
         "stats": stats,
     }
+    os.makedirs("data", exist_ok=True)
     with open("data/contributions.json", "w") as f:
         json.dump(out, f, indent=2)
     print(f"Wrote {len(days)} days, total={stats['total']}")

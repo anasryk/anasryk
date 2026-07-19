@@ -4,7 +4,7 @@
 .cell { opacity: 0; }
 @keyframes reveal { from { opacity: 0; transform: translate(-6px,-6px); } to { opacity: 1; transform: translate(0,0); } }
 </style>
-<rect class="cell" x="30" y="30" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.000s;"/>
+<rect class="cell" x="30" y="30" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.000s;"/>
 <rect class="cell" x="30" y="44" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.012s;"/>
 <rect class="cell" x="30" y="58" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.024s;"/>
 <rect class="cell" x="30" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.036s;"/>
@@ -76,7 +76,7 @@
 <rect class="cell" x="156" y="114" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.828s;"/>
 <rect class="cell" x="170" y="30" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.840s;"/>
 <rect class="cell" x="170" y="44" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.852s;"/>
-<rect class="cell" x="170" y="58" width="11" height="11" rx="2.5" fill="#39d353" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.864s;"/>
+<rect class="cell" x="170" y="58" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.864s;"/>
 <rect class="cell" x="170" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.876s;"/>
 <rect class="cell" x="170" y="86" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.888s;"/>
 <rect class="cell" x="170" y="100" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.900s;"/>
@@ -89,17 +89,17 @@
 <rect class="cell" x="184" y="100" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.984s;"/>
 <rect class="cell" x="184" y="114" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 0.996s;"/>
 <rect class="cell" x="198" y="30" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.008s;"/>
-<rect class="cell" x="198" y="44" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.020s;"/>
+<rect class="cell" x="198" y="44" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.020s;"/>
 <rect class="cell" x="198" y="58" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.032s;"/>
 <rect class="cell" x="198" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.044s;"/>
 <rect class="cell" x="198" y="86" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.056s;"/>
-<rect class="cell" x="198" y="100" width="11" height="11" rx="2.5" fill="#39d353" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.068s;"/>
+<rect class="cell" x="198" y="100" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.068s;"/>
 <rect class="cell" x="198" y="114" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.080s;"/>
 <rect class="cell" x="212" y="30" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.092s;"/>
 <rect class="cell" x="212" y="44" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.104s;"/>
 <rect class="cell" x="212" y="58" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.116s;"/>
 <rect class="cell" x="212" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.128s;"/>
-<rect class="cell" x="212" y="86" width="11" height="11" rx="2.5" fill="#39d353" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.140s;"/>
+<rect class="cell" x="212" y="86" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.140s;"/>
 <rect class="cell" x="212" y="100" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.152s;"/>
 <rect class="cell" x="212" y="114" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.164s;"/>
 <rect class="cell" x="226" y="30" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 1.176s;"/>
@@ -206,7 +206,7 @@
 <rect class="cell" x="422" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.388s;"/>
 <rect class="cell" x="422" y="86" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.400s;"/>
 <rect class="cell" x="422" y="100" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.412s;"/>
-<rect class="cell" x="422" y="114" width="11" height="11" rx="2.5" fill="#39d353" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.424s;"/>
+<rect class="cell" x="422" y="114" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.424s;"/>
 <rect class="cell" x="436" y="30" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.436s;"/>
 <rect class="cell" x="436" y="44" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.448s;"/>
 <rect class="cell" x="436" y="58" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.460s;"/>
@@ -225,7 +225,7 @@
 <rect class="cell" x="464" y="44" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.616s;"/>
 <rect class="cell" x="464" y="58" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.628s;"/>
 <rect class="cell" x="464" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.640s;"/>
-<rect class="cell" x="464" y="86" width="11" height="11" rx="2.5" fill="#39d353" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.652s;"/>
+<rect class="cell" x="464" y="86" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.652s;"/>
 <rect class="cell" x="464" y="100" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.664s;"/>
 <rect class="cell" x="464" y="114" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.676s;"/>
 <rect class="cell" x="478" y="30" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 2.688s;"/>
@@ -274,21 +274,21 @@
 <rect class="cell" x="562" y="44" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.204s;"/>
 <rect class="cell" x="562" y="58" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.216s;"/>
 <rect class="cell" x="562" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.228s;"/>
-<rect class="cell" x="562" y="86" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.240s;"/>
-<rect class="cell" x="562" y="100" width="11" height="11" rx="2.5" fill="#39d353" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.252s;"/>
+<rect class="cell" x="562" y="86" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.240s;"/>
+<rect class="cell" x="562" y="100" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.252s;"/>
 <rect class="cell" x="562" y="114" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.264s;"/>
-<rect class="cell" x="576" y="30" width="11" height="11" rx="2.5" fill="#39d353" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.276s;"/>
-<rect class="cell" x="576" y="44" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.288s;"/>
-<rect class="cell" x="576" y="58" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.300s;"/>
+<rect class="cell" x="576" y="30" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.276s;"/>
+<rect class="cell" x="576" y="44" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.288s;"/>
+<rect class="cell" x="576" y="58" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.300s;"/>
 <rect class="cell" x="576" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.312s;"/>
-<rect class="cell" x="576" y="86" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.324s;"/>
-<rect class="cell" x="576" y="100" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.336s;"/>
+<rect class="cell" x="576" y="86" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.324s;"/>
+<rect class="cell" x="576" y="100" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.336s;"/>
 <rect class="cell" x="576" y="114" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.348s;"/>
-<rect class="cell" x="590" y="30" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.360s;"/>
+<rect class="cell" x="590" y="30" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.360s;"/>
 <rect class="cell" x="590" y="44" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.372s;"/>
 <rect class="cell" x="590" y="58" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.384s;"/>
 <rect class="cell" x="590" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.396s;"/>
-<rect class="cell" x="590" y="86" width="11" height="11" rx="2.5" fill="#006d32" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.408s;"/>
+<rect class="cell" x="590" y="86" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.408s;"/>
 <rect class="cell" x="590" y="100" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.420s;"/>
 <rect class="cell" x="590" y="114" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.432s;"/>
 <rect class="cell" x="604" y="30" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 3.444s;"/>
@@ -367,7 +367,7 @@
 <rect class="cell" x="744" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.320s;"/>
 <rect class="cell" x="744" y="86" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.332s;"/>
 <rect class="cell" x="744" y="100" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.344s;"/>
-<rect class="cell" x="744" y="114" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.356s;"/>
+<rect class="cell" x="744" y="114" width="11" height="11" rx="2.5" fill="#39d353" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.356s;"/>
 <rect class="cell" x="758" y="30" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.368s;"/>
 <rect class="cell" x="758" y="44" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.380s;"/>
 <rect class="cell" x="758" y="58" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.392s;"/>
@@ -383,5 +383,5 @@
 <rect x="838" y="30" width="11" height="11" rx="2.5" fill="#39d353"/>
 <rect x="852" y="30" width="11" height="11" rx="2.5" fill="#69f0a0"/>
 <text x="870" y="40" fill="#8b949e" font-size="10">More</text>
-<text x="30" y="158" fill="#c9d1d9" font-size="12">25 contributions in the last year · current streak 0d · longest streak 3d</text>
+<text x="30" y="158" fill="#c9d1d9" font-size="12">34 contributions in the last year · current streak 0d · longest streak 3d</text>
 </svg>

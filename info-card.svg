@@ -1,0 +1,21 @@
+<svg viewBox="0 0 490 310" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Menlo, monospace">
+<rect width="490" height="310" rx="10" fill="#0d1117"/>
+<rect x="0" y="0" width="490" height="30" rx="10" fill="#161b22"/>
+<rect x="0" y="20" width="490" height="10" fill="#161b22"/>
+<circle cx="18" cy="15" r="5" fill="#ff5f56"/>
+<circle cx="34" cy="15" r="5" fill="#ffbd2e"/>
+<circle cx="50" cy="15" r="5" fill="#27c93f"/>
+<text x="245.0" y="19" fill="#8b949e" font-size="11" text-anchor="middle">anas@github ~ %</text>
+<style>
+.line { opacity: 0; }
+@keyframes fadein { from { opacity: 0; transform: translateX(-8px);} to { opacity: 1; transform: translateX(0);} }
+</style>
+<text x="24" y="60" class="line" style="animation: fadein 0.4s ease-out forwards; animation-delay: 0.00s;"><tspan fill="#39d353" font-weight="bold">Name:</tspan> <tspan fill="#c9d1d9">Muhammad Anas</tspan></text>
+<text x="24" y="90" class="line" style="animation: fadein 0.4s ease-out forwards; animation-delay: 0.15s;"><tspan fill="#39d353" font-weight="bold">Role:</tspan> <tspan fill="#c9d1d9">Full-Stack Web Developer</tspan></text>
+<text x="24" y="120" class="line" style="animation: fadein 0.4s ease-out forwards; animation-delay: 0.30s;"><tspan fill="#39d353" font-weight="bold">Focus:</tspan> <tspan fill="#c9d1d9">WordPress Specialist · MERN Stack</tspan></text>
+<text x="24" y="150" class="line" style="animation: fadein 0.4s ease-out forwards; animation-delay: 0.45s;"><tspan fill="#39d353" font-weight="bold">Stack:</tspan> <tspan fill="#c9d1d9">React · Node.js · Express · MongoDB</tspan></text>
+<text x="24" y="180" class="line" style="animation: fadein 0.4s ease-out forwards; animation-delay: 0.60s;"><tspan fill="#39d353" font-weight="bold">CMS:</tspan> <tspan fill="#c9d1d9">WordPress · WooCommerce · Shopify</tspan></text>
+<text x="24" y="210" class="line" style="animation: fadein 0.4s ease-out forwards; animation-delay: 0.75s;"><tspan fill="#39d353" font-weight="bold">Now:</tspan> <tspan fill="#c9d1d9">Building scalable React applications</tspan></text>
+<text x="24" y="240" class="line" style="animation: fadein 0.4s ease-out forwards; animation-delay: 0.90s;"><tspan fill="#39d353" font-weight="bold">Next:</tspan> <tspan fill="#c9d1d9">Learning Next.js and cloud fundamentals</tspan></text>
+<text x="24" y="270" class="line" style="animation: fadein 0.4s ease-out forwards; animation-delay: 1.05s;"><tspan fill="#39d353" font-weight="bold">Focus2:</tspan> <tspan fill="#c9d1d9">Clean backend architecture &amp; API optimization</tspan></text>
+</svg>

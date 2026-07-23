@@ -371,7 +371,7 @@
 <rect class="cell" x="758" y="30" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.368s;"/>
 <rect class="cell" x="758" y="44" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.380s;"/>
 <rect class="cell" x="758" y="58" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.392s;"/>
-<rect class="cell" x="758" y="72" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.404s;"/>
+<rect class="cell" x="758" y="72" width="11" height="11" rx="2.5" fill="#0e4429" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.404s;"/>
 <rect class="cell" x="758" y="86" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.416s;"/>
 <rect class="cell" x="758" y="100" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.428s;"/>
 <rect class="cell" x="758" y="114" width="11" height="11" rx="2.5" fill="#161b22" style="animation: reveal 0.4s ease-out forwards; animation-delay: 4.440s;"/>
@@ -383,5 +383,5 @@
 <rect x="838" y="30" width="11" height="11" rx="2.5" fill="#39d353"/>
 <rect x="852" y="30" width="11" height="11" rx="2.5" fill="#69f0a0"/>
 <text x="870" y="40" fill="#8b949e" font-size="10">More</text>
-<text x="30" y="158" fill="#c9d1d9" font-size="12">38 contributions in the last year · current streak 0d · longest streak 4d</text>
+<text x="30" y="158" fill="#c9d1d9" font-size="12">39 contributions in the last year · current streak 0d · longest streak 5d</text>
 </svg>

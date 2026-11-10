@@ -1,0 +1,41 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#3B82F6" stroke-opacity="0.09"/></pattern>
+<linearGradient id="name" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="700" y2="0" spreadMethod="repeat">
+<stop offset="0" stop-color="#60a5fa"/><stop offset="0.35" stop-color="#22d3ee"/><stop offset="0.7" stop-color="#3B82F6"/><stop offset="1" stop-color="#60a5fa"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="700 0" dur="6s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#3B82F6" stop-opacity="0"/><stop offset="0.5" stop-color="#60a5fa" stop-opacity="0.16"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></linearGradient>
+<radialGradient id="g1"><stop offset="0" stop-color="#3B82F6" stop-opacity="0.45"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient><radialGradient id="g2"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.28"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<clipPath id="clip"><rect width="1200" height="400" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="400" fill="#060709"/>
+<rect width="1200" height="400" fill="url(#grid)"/>
+<circle cx="220" cy="120" r="260" fill="url(#g1)"><animate attributeName="cx" values="220;420;220" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="120;220;120" dur="11s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="300" r="280" fill="url(#g2)"><animate attributeName="cx" values="980;800;980" dur="16s" repeatCount="indefinite"/></circle>
+<rect x="-300" y="0" width="300" height="400" fill="url(#sweep)"><animate attributeName="x" from="-300" to="1200" dur="7s" repeatCount="indefinite"/></rect>
+<g transform="translate(990 190)" fill="none" stroke="#3B82F6">
+<circle r="118" stroke-opacity="0.35" stroke-dasharray="3 12"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/></circle>
+<circle r="86" stroke="#22d3ee" stroke-opacity="0.45" stroke-dasharray="40 18 6 18"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="26s" repeatCount="indefinite"/></circle>
+<circle r="54" stroke-opacity="0.7" stroke-dasharray="90 30"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/></circle>
+<circle r="8" fill="#60a5fa" stroke="none"><animate attributeName="r" values="6;11;6" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="118" r="4" fill="#22d3ee" stroke="none"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="-86" r="3" fill="#60a5fa" stroke="none"><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="12s" repeatCount="indefinite"/></circle>
+</g>
+<path d="M30 70 V30 H70 M1170 330 V370 H1130" fill="none" stroke="#3B82F6" stroke-width="2" stroke-opacity="0.7"/>
+<text x="60" y="78" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="14" letter-spacing="3" fill="#3B82F6">// PORTFOLIO  /  ANASBUILDS.TECH</text>
+<text x="56" y="178" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="84" font-weight="800" letter-spacing="4" fill="url(#name)">MUHAMMAD ANAS</text>
+<text x="60" y="228" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" letter-spacing="6" fill="#94a3b8">AI AUTOMATION ENGINEER   |   FULL STACK DEVELOPER</text>
+<text x="60" y="300" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#3B82F6">&gt;<animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></text>
+<text x="92" y="300" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="22" fill="#e2e8f0" opacity="0">Engineering intelligent systems<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0;0.02;0.22;0.25;1" dur="16s" repeatCount="indefinite"/></text>
+<text x="92" y="300" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="22" fill="#e2e8f0" opacity="0">Building autonomous AI agents<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.27;0.47;0.5;1" dur="16s" repeatCount="indefinite"/></text>
+<text x="92" y="300" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="22" fill="#e2e8f0" opacity="0">Shipping production-ready web applications<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.52;0.72;0.75;1" dur="16s" repeatCount="indefinite"/></text>
+<text x="92" y="300" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="22" fill="#e2e8f0" opacity="0">Working toward agentic AI engineering<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75;0.77;0.97;1.0;1" dur="16s" repeatCount="indefinite"/></text>
+
+<circle cx="66" cy="362" r="5" fill="#22c55e"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="84" y="367" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="3" fill="#94a3b8">AVAILABLE FOR OPPORTUNITIES</text>
+<text x="1140" y="367" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="2" fill="#475569">BS ARTIFICIAL INTELLIGENCE  /  KFUEIT  /  2024 - 2028</text>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="399" rx="18" fill="none" stroke="#1e293b"/>
+</svg>

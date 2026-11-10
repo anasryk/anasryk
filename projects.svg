@@ -1,0 +1,53 @@
+<svg width="1200" height="580" viewBox="0 0 1200 580" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#3B82F6"/></linearGradient></defs>
+<rect width="1200" height="580" rx="18" fill="#060709"/>
+<rect x="20" y="20" width="570" height="260" rx="18" fill="#0b0f17" stroke="#1a2333"/>
+<rect x="20" y="20" width="570" height="260" rx="18" fill="none" stroke="url(#bd)" stroke-width="2.5" pathLength="100" stroke-dasharray="14 86"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="8s" repeatCount="indefinite"/></rect>
+<text x="50" y="64" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#3B82F6">01</text>
+<circle cx="460.0" cy="59" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="560" y="64" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="2" fill="#94a3b8">FUNCTIONAL</text>
+<text x="50" y="118" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#f9fafb">WhatsApp AI Assistant</text>
+<text x="50" y="154" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">Self-hosted business assistant for Anas Tech Solutions.</text>
+<text x="50" y="178" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">Per-user session memory, booking flow and graceful</text>
+<text x="50" y="202" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">fallbacks, wired through Meta's WhatsApp Cloud API.</text>
+<rect x="50" y="228" width="53" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="77" y="248" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">n8n</text>
+<rect x="113.2" y="228" width="78" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="152" y="248" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">Docker</text>
+<rect x="201.60000000000002" y="228" width="62" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="232" y="248" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">Groq</text>
+<rect x="273.20000000000005" y="228" width="171" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="359" y="248" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">Cloudflare Tunnel</text>
+<rect x="610" y="20" width="570" height="260" rx="18" fill="#0b0f17" stroke="#1a2333"/>
+<rect x="610" y="20" width="570" height="260" rx="18" fill="none" stroke="url(#bd)" stroke-width="2.5" pathLength="100" stroke-dasharray="14 86"><animate attributeName="stroke-dashoffset" from="75" to="-25" dur="8s" repeatCount="indefinite"/></rect>
+<text x="640" y="64" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#3B82F6">02</text>
+<circle cx="1015.5999999999999" cy="59" r="4" fill="#f59e0b"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="1150" y="64" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="2" fill="#94a3b8">IN DEVELOPMENT</text>
+<text x="640" y="118" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#f9fafb">Instagram Automation Agent</text>
+<text x="640" y="154" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">Comment-triggered DM agent. A keyword in a comment</text>
+<text x="640" y="178" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">starts an automated direct message conversation,</text>
+<text x="640" y="202" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">hosted in the cloud instead of a local tunnel.</text>
+<rect x="640" y="228" width="53" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="667" y="248" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">n8n</text>
+<rect x="703.2" y="228" width="188" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="797" y="248" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">Instagram Graph API</text>
+<rect x="900.8000000000001" y="228" width="137" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="969" y="248" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">Cloud hosting</text>
+<rect x="20" y="300" width="570" height="260" rx="18" fill="#0b0f17" stroke="#1a2333"/>
+<rect x="20" y="300" width="570" height="260" rx="18" fill="none" stroke="url(#bd)" stroke-width="2.5" pathLength="100" stroke-dasharray="14 86"><animate attributeName="stroke-dashoffset" from="50" to="-50" dur="8s" repeatCount="indefinite"/></rect>
+<text x="50" y="344" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#3B82F6">03</text>
+<circle cx="511.6" cy="339" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="560" y="344" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="2" fill="#94a3b8">LIVE</text>
+<text x="50" y="398" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#f9fafb">anasbuilds.tech</text>
+<text x="50" y="434" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">Personal portfolio for AI automation and full stack work.</text>
+<text x="50" y="458" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">Dark, fast and built to turn visitors into conversations.</text>
+<rect x="50" y="508" width="104" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="102" y="528" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">Portfolio</text>
+<rect x="163.60000000000002" y="508" width="137" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="232" y="528" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">AI Automation</text>
+<rect x="310.8" y="508" width="112" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="367" y="528" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">Full Stack</text>
+<rect x="610" y="300" width="570" height="260" rx="18" fill="#0b0f17" stroke="#1a2333"/>
+<rect x="610" y="300" width="570" height="260" rx="18" fill="none" stroke="url(#bd)" stroke-width="2.5" pathLength="100" stroke-dasharray="14 86"><animate attributeName="stroke-dashoffset" from="25" to="-75" dur="8s" repeatCount="indefinite"/></rect>
+<text x="640" y="344" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#3B82F6">04</text>
+<circle cx="1058.6" cy="339" r="4" fill="#3B82F6"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="1150" y="344" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="2" fill="#94a3b8">AUTOMATED</text>
+<text x="640" y="398" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#f9fafb">Profile Rendering Pipeline</text>
+<text x="640" y="434" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">Python and GitHub Actions pipeline that renders a</text>
+<text x="640" y="458" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">contribution heatmap and a neofetch-style info card</text>
+<text x="640" y="482" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9ca3af">on a schedule, committed back to the repo as SVG.</text>
+<rect x="640" y="508" width="78" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="679" y="528" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">Python</text>
+<rect x="728.4" y="508" width="146" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="801" y="528" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">GitHub Actions</text>
+<rect x="884.0" y="508" width="53" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/><text x="911" y="528" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#60a5fa">SVG</text>
+
+</svg>

@@ -1,0 +1,9 @@
+<svg width="1200" height="76" viewBox="0 0 1200 76" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<linearGradient id="h" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="76" rx="12" fill="#060709"/>
+<text x="24" y="46" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="16" fill="#3B82F6">06</text>
+<text x="66" y="48" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="6" fill="#f3f4f6">CONTACT</text>
+<rect x="24" y="64" width="0" height="2" fill="url(#g)"><animate attributeName="width" from="0" to="1152" dur="1.4s" fill="freeze"/></rect>
+<rect x="24" y="63" width="150" height="4" fill="url(#h)"><animate attributeName="x" values="24;1026;24" dur="6s" repeatCount="indefinite"/></rect>
+</svg>

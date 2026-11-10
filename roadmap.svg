@@ -1,0 +1,28 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="430" rx="18" fill="#060709"/>
+<text x="60" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#f3f4f6">Agentic AI Engineering</text>
+<text x="60" y="76" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" fill="#64748b">Python, LLM APIs, LangGraph, CrewAI</text>
+<text x="1140" y="52" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="2" fill="#3B82F6">IN PROGRESS  45%</text>
+<rect x="60" y="90" width="1080" height="8" rx="4" fill="#111827"/>
+<rect x="60" y="90" width="0" height="8" rx="4" fill="#3B82F6"><animate attributeName="width" from="0" to="486" dur="1.8s" begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<rect x="60" y="90" width="120" height="8" rx="4" fill="#fff" opacity="0.18"><animate attributeName="x" values="60;426;60" dur="4s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="60" y="150" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#f3f4f6">Model Context Protocol</text>
+<text x="60" y="174" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" fill="#64748b">Tool and server integrations</text>
+<text x="1140" y="150" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="2" fill="#f59e0b">LEARNING  25%</text>
+<rect x="60" y="188" width="1080" height="8" rx="4" fill="#111827"/>
+<rect x="60" y="188" width="0" height="8" rx="4" fill="#f59e0b"><animate attributeName="width" from="0" to="270" dur="1.8s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<rect x="60" y="188" width="120" height="8" rx="4" fill="#fff" opacity="0.18"><animate attributeName="x" values="60;210;60" dur="4s" begin="0.4s" repeatCount="indefinite"/></rect>
+<text x="60" y="248" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#f3f4f6">Instagram Comment to DM Agent</text>
+<text x="60" y="272" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" fill="#64748b">n8n flow, cloud hosting</text>
+<text x="1140" y="248" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="2" fill="#22c55e">BUILDING  60%</text>
+<rect x="60" y="286" width="1080" height="8" rx="4" fill="#111827"/>
+<rect x="60" y="286" width="0" height="8" rx="4" fill="#22c55e"><animate attributeName="width" from="0" to="648" dur="1.8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<rect x="60" y="286" width="120" height="8" rx="4" fill="#fff" opacity="0.18"><animate attributeName="x" values="60;588;60" dur="4s" begin="0.8s" repeatCount="indefinite"/></rect>
+<text x="60" y="346" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#f3f4f6">Frontend, React and WordPress role</text>
+<text x="60" y="370" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" fill="#64748b">Internships and entry-level</text>
+<text x="1140" y="346" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="2" fill="#22d3ee">SEARCHING  80%</text>
+<rect x="60" y="384" width="1080" height="8" rx="4" fill="#111827"/>
+<rect x="60" y="384" width="0" height="8" rx="4" fill="#22d3ee"><animate attributeName="width" from="0" to="864" dur="1.8s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<rect x="60" y="384" width="120" height="8" rx="4" fill="#fff" opacity="0.18"><animate attributeName="x" values="60;804;60" dur="4s" begin="1.2000000000000002s" repeatCount="indefinite"/></rect>
+<rect x="0.5" y="0.5" width="1199" height="429" rx="18" fill="none" stroke="#1e293b"/>
+</svg>

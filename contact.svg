@@ -1,0 +1,16 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#3B82F6" stroke-opacity="0.08"/></pattern>
+<linearGradient id="t" gradientUnits="userSpaceOnUse" x1="0" x2="600" spreadMethod="repeat"><stop offset="0" stop-color="#60a5fa"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#60a5fa"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="600 0" dur="5s" repeatCount="indefinite"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="230" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="230" fill="#060709"/><rect width="1200" height="230" fill="url(#grid)"/>
+<g transform="translate(1040 115)" fill="none" stroke="#3B82F6"><circle r="80" stroke-opacity="0.3" stroke-dasharray="3 10"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/></circle><circle r="52" stroke="#22d3ee" stroke-opacity="0.5" stroke-dasharray="30 14"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/></circle><circle r="7" fill="#60a5fa" stroke="none"><animate attributeName="r" values="5;10;5" dur="2.5s" repeatCount="indefinite"/></circle></g>
+<circle cx="66" cy="62" r="5" fill="#22c55e"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="84" y="67" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="3" fill="#94a3b8">OPEN TO WORK</text>
+<text x="60" y="122" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="3" fill="url(#t)">LET'S BUILD SOMETHING</text>
+<text x="60" y="164" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#cbd5e1">Frontend, React and WordPress internships and entry-level roles. Remote or major Pakistani cities.</text>
+<text x="60" y="192" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#64748b">AI automation, chatbots and web projects through Anas Tech Solutions.</text>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="229" rx="18" fill="none" stroke="#1e293b"/>
+</svg>
